@@ -1,3 +1,8 @@
 Hy !! My name is naman jain
 
-i have learned vs code,GIT and repl.it from Tanay sir Youtube videos.
+# My Portfolio
+
+
+Hey everyone,
+
+Today I've learned vs code and html from Tanay Sir's YT session
